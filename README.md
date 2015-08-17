@@ -27,18 +27,19 @@ that diversity brings out all kinds of ideas which can be argued, refined, and
 ultimately adopted. I also believe that tech community has long way to go in
 fostering desire and focus to learn in those who wish to pursue software
 development as hobby and perhaps as their livelihood. However, github and many
-open source platforms and projects have adopted the heavy handed means to
-placate, but not resolve, those diversity issues. Code of Conduct will not solve
-the diversity problem. Code of Conduct is a blunt instrument that is often used
-by the trolls and demagogues to bully and silence software developers.
+open source platforms and projects have adopted the heavy handed means which
+will placate the activists, but not actually resolve the diversity issues.
+Code of Conduct will not solve the diversity problem. Code of Conduct is a blunt
+instrument that is often used by the trolls and demagogues to bully and silence
+software developers.
 
 I also see that github and their types will not relent in enforcing Code of
 Conduct in platforms and open source projects. I do not consent to this. I will
-not be unwitting collaborator in their attempt to bully and destroy passion to
-create and to contribute. I will not provide the likes of github its legitimacy
-by hosting open source project I have spent time developing. With their
-decision to adopt a platform-wide Code of Conduct and to enforce it, they have
-taken a step too far.
+not be an unwitting collaborator in their attempt to bully and destroy developers'
+passion to create and to contribute. I will not provide the likes of github its
+legitimacy by hosting open source project I have spent time developing. With
+their decision to adopt a platform-wide Code of Conduct and to enforce it, they
+have taken a step too far.
 
 This is the reason why I have removed my various projects from github. I am not
 a type of person who wears my political leanings like a badge of honor. I just
