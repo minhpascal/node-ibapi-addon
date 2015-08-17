@@ -44,11 +44,11 @@ have taken a step too far.
 This is the reason why I have removed my various projects from github. I am not
 a type of person who wears my political leanings like a badge of honor. I just
 don't think it's anyone's business frankly. In most of my dealings with people
-I have seen many brilliant people disagree with me for their own reasons. I
-believe that github.com has taken the wong step in promoting diversity. Their
-short-sighted and wrongheaded approach to enforcing racial and gender diversity
-will, ironically, stifle the kind of diversity that matters most -
-diversity of thought.
+I have seen many brilliant people disagree with me for their own reasons.
+However in this case, I believe that github.com has taken the wrong step in
+promoting diversity. Their short-sighted and wrongheaded approach to enforcing
+racial and gender diversity will, ironically, stifle the kind of diversity that
+matters most - diversity of thought.
 
 For users of the open source projects I have contributed heavily, I encourage
 them to think carefully and decide for themselves whether github has made a
