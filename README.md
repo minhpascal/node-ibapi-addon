@@ -24,8 +24,10 @@ desired.
 
 In society, and in microcosm that is open source development, I firmly believe
 that diversity brings out all kinds of ideas which can be argued, refined, and
-ultimately adopted. I also believe that tech community has long way to go in
-fostering the desire and focus necessary to become a software developer.
+ultimately adopted. I also believe that tech community has a long way to go in
+fostering the desire and focus necessary to become a software developer among
+women and some racial minorities.
+
 Instead of encouraging and educating by providing the most open platform,
 github and many open source platforms and projects have adopted the
 heavy handed means which will placate the activists, but not actually resolve
