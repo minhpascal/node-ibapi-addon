@@ -4,7 +4,7 @@ of Conduct. While github's aim is to foster an inclusive environment, I believe
 their judgment was in error in adopting any Code of Conduct.
 
 Many developers like myself take pride in relentlessly pursuing excellence.
-One of the reason why I have my project open source is because I wanted
+One of the reason why I have made my project into open source is because I wanted
 constructive criticism from the software developer community to better my craft.
 
 However, I find myself caught in a witchhunt which seeks to stifle the way in
